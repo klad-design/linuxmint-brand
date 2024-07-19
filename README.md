@@ -44,7 +44,7 @@ Currently, Linux Mint's brand assets lack consistency across various platforms. 
 Our concept aims to demonstrate how a well-defined color palette can enhance visual consistency while simplifying the overall aesthetic. By maintaining a systematic look across various assets and focusing on green and white, we've created a scheme that's both visually appealing and easy to manage.
 
 Typography is often a challenge for open-source projects. Given the open nature of Linux Mint, it's logical to use open-source fonts. We decided to go with [Geist by Vercel](https://vercel.com/font) for the following reasons:
-- it is well maintained
+- it is wel-maintained
 - has sans and mono versions
 - has 9 weights and contains loads of glyphs
 - open-source (_ofc_)
@@ -96,7 +96,7 @@ This step-by-step logic allows us to create a cohesive and intuitive experience 
 
 ![install](https://github.com/user-attachments/assets/56d0757f-f1f7-4612-ac36-3e2c040e5259)
 
-![install wizzard](https://github.com/user-attachments/assets/84c449e2-a52a-4a28-9a61-6b64ae44691c)
+![install wizzard](https://github.com/user-attachments/assets/139f8944-dce7-43ea-9475-474e74df1f27)
 
 We reimagined the desktop experience to set Linux Mint apart from proprietary systems. Instead of presenting users with a pre-customized environment and default wallpaper, we introduced a new step in the installation process. Users can now select their preferred desktop layout before the first boot, easing the transition for newcomers and showcasing Linux's customization capabilities early on.
 
@@ -108,7 +108,7 @@ We eliminated the default background image for the first load experience for two
 - new "home" feeling: like an empty new apartment, it encourages users to personalize their space.
 - efficiency in details: a blank color background is slightly more resource-efficient than an image.
 
-![DE 1](https://github.com/user-attachments/assets/877e8b13-de64-457c-867e-cb775183d878)
+![de var 1](https://github.com/user-attachments/assets/2bd465a4-6515-4d6a-bd76-8c8bae2d9f31)
 
 We also made a variation with our brand graphics as the default background, fostering stronger brand recognition while maintaining visual consistency.
 
